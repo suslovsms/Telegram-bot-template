@@ -1,0 +1,7 @@
+.env
+venv
+.promts
+AIBot.iml
+*.xml
+ postgres_data/
+ prompts/
